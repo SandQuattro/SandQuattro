@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+🔭 Below is a list of my golang projects i’m currently working on...
 
 <!--
 **SandQuattro/SandQuattro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
