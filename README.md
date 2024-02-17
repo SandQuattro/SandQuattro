@@ -12,6 +12,15 @@
 
 
 
+### [Server Sent Events Streaming](https://github.com/SandQuattro/sse-streaming)
+
+<a href="https://github.com/SandQuattro/sse-streaming">
+<img src="https://github.com/SandQuattro/sse-streaming/assets/31468131/ef9f7d18-f4c3-4359-959a-c12d82eb314e" width="600px"></a>
+
+> The Core SSE Demo API (here and after referred to as API) provides a set of methods necessary for multiple file uploading and upload process Server Sent Events (SSE) streaming to frontend application. Can be useful for realtime data visualization, like file upload / processing progress, currency rates, etc.. It's one way, from server to client. If you need two-way communication, use websockets.
+
+
+
 <!--
 **SandQuattro/SandQuattro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
