@@ -1,6 +1,17 @@
 ### Hi there 👋 
 🔭 Below is a list of my golang projects i’m currently working on...
 
+### [Single Sign-On](https://github.com/SandQuattro/golang-sso)
+
+<a href="https://github.com/SandQuattro/golang-sso">
+<img src="https://github.com/SandQuattro/golang-sso/assets/31468131/4454c9ac-4dcd-405a-a3cf-8e92cb2bd170" width="600px"></a>
+
+> Argon2 based sso service, written in golang, provides a set of methods necessary for users registration / authorization  in the company's systems, refreshing the jwt token, as well as user management methods, like change password, email password renewal, also providing oauth authorization through such systems as Google, VK, Mail.ru, using OAuth2.0 protocol specification (rfc6749)
+
+
+
+
+
 <!--
 **SandQuattro/SandQuattro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
