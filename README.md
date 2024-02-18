@@ -1,7 +1,8 @@
 ### Hi there 👋 
 🔭 Below is a list of my golang projects i’m currently working on...
 
-### [Single Sign-On](https://github.com/SandQuattro/golang-sso)
+### Single Sign-On
+### [Single Sign-On Echo](https://github.com/SandQuattro/golang-sso-echo)
 
 <a href="https://github.com/SandQuattro/golang-sso">
 <img src="https://github.com/SandQuattro/golang-sso/assets/31468131/4454c9ac-4dcd-405a-a3cf-8e92cb2bd170" width="600px"></a>
