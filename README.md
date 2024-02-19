@@ -27,7 +27,7 @@
 <a href="https://github.com/SandQuattro/websocket-miltipart-upload">
 <img src="https://github.com/SandQuattro/websocket-miltipart-upload/assets/31468131/987d67d4-6f9b-4cd4-811a-fa9272c1e468" width="600px"></a>
 
-> Websocket multipart file uploader, backend using chunk processing with AWS S3 multipart processing
+> Websocket multipart file uploader, golang backend using chunks transfer to AWS S3 multipart processor
 <!--
 **SandQuattro/SandQuattro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
