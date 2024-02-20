@@ -31,7 +31,7 @@
 
 
 
-### [hashmap implementation]
+### [hashmap implementation](https://github.com/SandQuattro/hashmap-implementation)
 <a href="https://github.com/SandQuattro/hashmap-implementation">
 <img src="https://github.com/SandQuattro/hashmap-implementation/assets/31468131/49face93-9832-4245-a5da-ea7f80e8cdfd width="600px"></a>
 
