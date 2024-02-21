@@ -26,7 +26,7 @@
 
 ### [Blockchain implementation](https://github.com/SandQuattro/golang-blockchain)
 <a href="https://github.com/SandQuattro/golang-blockchain">
-<img src="https://github.com/SandQuattro/golang-blockchain/assets/31468131/83182959-5c74-49fa-bdb8-333d0e0a3c6a width="600px"></a>
+<img src="https://github.com/SandQuattro/golang-blockchain/assets/31468131/83182959-5c74-49fa-bdb8-333d0e0a3c6a" width="600px"></a>
 
 > simple blockchain implementation. Educational purposes
 
@@ -48,7 +48,7 @@
 
 ### [HashMap implementation](https://github.com/SandQuattro/hashmap-implementation)
 <a href="https://github.com/SandQuattro/hashmap-implementation">
-<img src="https://github.com/SandQuattro/hashmap-implementation/assets/31468131/49face93-9832-4245-a5da-ea7f80e8cdfd width="600px"></a>
+<img src="https://github.com/SandQuattro/hashmap-implementation/assets/31468131/49face93-9832-4245-a5da-ea7f80e8cdfd" width="600px"></a>
 
 > some golang hashmap internals implementation. Educational purposes
 <!--
