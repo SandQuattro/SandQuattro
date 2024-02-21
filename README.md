@@ -38,7 +38,7 @@
 ### [Websocket multipart uploader](https://github.com/SandQuattro/websocket-miltipart-upload)
 
 <a href="https://github.com/SandQuattro/websocket-miltipart-upload">
-<img src="https://github.com/SandQuattro/websocket-miltipart-upload/assets/31468131/987d67d4-6f9b-4cd4-811a-fa9272c1e468" width="600px"></a>
+<img src="https://github.com/SandQuattro/websocket-miltipart-upload/assets/31468131/e1f4aea6-b954-4cf6-b2e9-166d93b6a537" width="600px"></a>
 
 > Websocket multipart file uploader, golang backend using chunks transfer to AWS S3 multipart processor
 
