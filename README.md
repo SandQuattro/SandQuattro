@@ -9,8 +9,13 @@
 
 > Argon2 based sso service, written in golang. Provides a set of methods necessary for users registration / authorization  in the company's systems, refreshing the jwt token, as well as user management methods, like change password, email password renewal, also providing oauth authorization through such systems as Google, VK, Mail.ru, using OAuth2.0 protocol specification (rfc6749)
 
+### Faceted bitmap search algo
+### [Faceted Bitmap Search](https://github.com/SandQuattro/faceted-bitmap-search)
 
+<a href="https://github.com/SandQuattro/golang-sso">
+<img src="https://github.com/SandQuattro/golang-sso/assets/31468131/4454c9ac-4dcd-405a-a3cf-8e92cb2bd170" width="500px"></a>
 
+> Here comes high performance faceted bitmap huge dataset searching
 
 
 ### [Server Sent Events Streaming](https://github.com/SandQuattro/sse-streaming)
