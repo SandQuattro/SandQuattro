@@ -13,7 +13,7 @@
 ### Faceted bitmap search algo
 ### [Faceted Bitmap Search](https://github.com/SandQuattro/faceted-bitmap-search)
 
-<a href="https://github.com/SandQuattro/golang-sso">
+<a href="https://github.com/SandQuattro/faceted-bitmap-search">
 <img src="https://github.com/user-attachments/assets/45193fb6-6b12-4331-879c-a0b98f4620cf" width="500px"></a>
 
 > Here comes high performance faceted bitmap huge dataset searching
