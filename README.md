@@ -75,9 +75,7 @@
 
 
 
-![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/websocket-miltipart-upload)
 ![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/websocket-miltipart-upload)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sandquattro/websocket-miltipart-upload)
 ![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/websocket-miltipart-upload)
 ![Github Open Issues](https://img.shields.io/github/issues/sandquattro/websocket-miltipart-upload)
 ![License](https://img.shields.io/badge/license-MIT-green)
