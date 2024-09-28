@@ -75,7 +75,14 @@
 
 
 
-
+![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/websocket-miltipart-upload)
+![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/websocket-miltipart-upload)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sandquattro/websocket-miltipart-upload)
+![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/websocket-miltipart-upload)
+![Github Open Issues](https://img.shields.io/github/issues/sandquattro/websocket-miltipart-upload)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/websocket-miltipart-upload)
+![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/websocket-miltipart-upload)
 ### [Websocket multipart uploader](https://github.com/SandQuattro/websocket-miltipart-upload)
 
 <a href="https://github.com/SandQuattro/websocket-miltipart-upload">
@@ -86,7 +93,14 @@
 
 
 
-
+![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/hashmap-implementation)
+![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/hashmap-implementation)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sandquattro/hashmap-implementation)
+![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/hashmap-implementation)
+![Github Open Issues](https://img.shields.io/github/issues/sandquattro/hashmap-implementation)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/hashmap-implementation)
+![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/hashmap-implementation)
 ### [HashMap implementation](https://github.com/SandQuattro/hashmap-implementation)
 <a href="https://github.com/SandQuattro/hashmap-implementation">
 <img src="https://github.com/SandQuattro/hashmap-implementation/assets/31468131/49face93-9832-4245-a5da-ea7f80e8cdfd" width="500px"></a>
