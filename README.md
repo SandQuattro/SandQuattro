@@ -19,6 +19,8 @@
 > Argon2 based sso service, written in golang. Provides a set of methods necessary for users registration / authorization  in the company's systems, refreshing the jwt token, as well as user management methods, like change password, email password renewal, also providing oauth authorization through such systems as Google, VK, Mail.ru, using OAuth2.0 protocol specification (rfc6749)
 
 
+
+
 ![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/faceted-bitmap-search)
 ![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/faceted-bitmap-search)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sandquattro/faceted-bitmap-search)
@@ -34,6 +36,8 @@
 <img src="https://github.com/user-attachments/assets/45193fb6-6b12-4331-879c-a0b98f4620cf" width="500px"></a>
 
 > Here comes high performance faceted bitmap huge dataset searching
+
+
 
 ![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/sse-streaming)
 ![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/sse-streaming)
@@ -53,7 +57,14 @@
 
 
 
-
+![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/golang-blockchain)
+![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/golang-blockchain)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sandquattro/golang-blockchain)
+![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/golang-blockchain)
+![Github Open Issues](https://img.shields.io/github/issues/sandquattro/golang-blockchain)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/golang-blockchain)
+![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/golang-blockchain)
 ### [Blockchain implementation](https://github.com/SandQuattro/golang-blockchain)
 <a href="https://github.com/SandQuattro/golang-blockchain">
 <img src="https://github.com/SandQuattro/golang-blockchain/assets/31468131/83182959-5c74-49fa-bdb8-333d0e0a3c6a" width="500px"></a>
