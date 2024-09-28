@@ -26,7 +26,14 @@
 
 > Here comes high performance faceted bitmap huge dataset searching
 
-
+![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/sse-streaming)
+![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/sse-streaming)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sandquattro/sse-streaming)
+![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/sse-streaming)
+![Github Open Issues](https://img.shields.io/github/issues/sandquattro/sse-streaming)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/sse-streaming)
+![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/sse-streaming)
 ### [Server Sent Events Streaming](https://github.com/SandQuattro/sse-streaming)
 
 <a href="https://github.com/SandQuattro/sse-streaming">
