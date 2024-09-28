@@ -18,6 +18,15 @@
 
 > Argon2 based sso service, written in golang. Provides a set of methods necessary for users registration / authorization  in the company's systems, refreshing the jwt token, as well as user management methods, like change password, email password renewal, also providing oauth authorization through such systems as Google, VK, Mail.ru, using OAuth2.0 protocol specification (rfc6749)
 
+
+![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/faceted-bitmap-search)
+![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/faceted-bitmap-search)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sandquattro/faceted-bitmap-search)
+![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/faceted-bitmap-search)
+![Github Open Issues](https://img.shields.io/github/issues/sandquattro/faceted-bitmap-search)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/faceted-bitmap-search)
+![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/faceted-bitmap-search)
 ### Faceted bitmap search algo
 ### [Faceted Bitmap Search](https://github.com/SandQuattro/faceted-bitmap-search)
 
