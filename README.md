@@ -1,6 +1,14 @@
 ### Hi there 👋 
 🔭 Below is a list of my golang projects i’m currently working on...
 
+![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/golang-sso-echo)
+![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/golang-sso-echo)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sandquattro/golang-sso-echo)
+![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/golang-sso-echo)
+![Github Open Issues](https://img.shields.io/github/issues/sandquattro/golang-sso-echo)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/golang-sso-echo)
+![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/golang-sso-echo)
 ### Single Sign-On
 ### [Single Sign-On Echo](https://github.com/SandQuattro/golang-sso-echo)
 
