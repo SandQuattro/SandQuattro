@@ -88,7 +88,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/websocket-multipart-storage)
 
 <a href="https://github.com/SandQuattro/websocket-multipart-upload">
-<img src="https://github.com/SandQuattro/websocket-multipart-upload/assets/31468131/e1f4aea6-b954-4cf6-b2e9-166d93b6a537" width="500px"></a>
+<img src="https://github.com/SandQuattro/websocket-miltipart-upload/assets/31468131/e1f4aea6-b954-4cf6-b2e9-166d93b6a537" width="500px"></a>
 
 > Websocket multipart file uploader, golang backend using chunks transfer to AWS S3 multipart processor
 
