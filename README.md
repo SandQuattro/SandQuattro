@@ -29,6 +29,24 @@
 
 > Argon2 based sso service, written in golang. Provides a set of methods necessary for users registration / authorization  in the company's systems, refreshing the jwt token, as well as user management methods, like change password, email password renewal, also providing oauth authorization through such systems as Google, VK, Mail.ru, using OAuth2.0 protocol specification (rfc6749)
 
+
+
+### [Websocket multipart storage service](https://github.com/SandQuattro/websocket-multipart-storage)
+![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/websocket-multipart-storage)
+![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/websocket-multipart-storage)
+![Github Open Issues](https://img.shields.io/github/issues/sandquattro/websocket-multipart-storage)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/websocket-multipart-storage)
+![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/websocket-multipart-storage)
+
+<a href="https://github.com/SandQuattro/websocket-multipart-upload">
+<img src="https://github.com/SandQuattro/websocket-miltipart-upload/assets/31468131/e1f4aea6-b954-4cf6-b2e9-166d93b6a537" width="500px"></a>
+
+> Websocket multipart file uploader, golang backend using chunks transfer to AWS S3 multipart processor
+
+
+
+
 ### Faceted bitmap search algo
 ![Go Report](https://goreportcard.com/badge/github.com/SandQuattro/faceted-bitmap-search)
 ![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/faceted-bitmap-search)
@@ -75,22 +93,6 @@
 <img src="https://github.com/SandQuattro/golang-blockchain/assets/31468131/83182959-5c74-49fa-bdb8-333d0e0a3c6a" width="500px"></a>
 
 > simple blockchain implementation. Educational purposes
-
-
-
-
-### [Websocket multipart storage service](https://github.com/SandQuattro/websocket-multipart-storage)
-![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/websocket-multipart-storage)
-![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/websocket-multipart-storage)
-![Github Open Issues](https://img.shields.io/github/issues/sandquattro/websocket-multipart-storage)
-![License](https://img.shields.io/badge/license-MIT-green)
-![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/websocket-multipart-storage)
-![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/websocket-multipart-storage)
-
-<a href="https://github.com/SandQuattro/websocket-multipart-upload">
-<img src="https://github.com/SandQuattro/websocket-miltipart-upload/assets/31468131/e1f4aea6-b954-4cf6-b2e9-166d93b6a537" width="500px"></a>
-
-> Websocket multipart file uploader, golang backend using chunks transfer to AWS S3 multipart processor
 
 
 ### [HashMap implementation](https://github.com/SandQuattro/hashmap-implementation)
