@@ -79,13 +79,13 @@
 
 
 
-### [Websocket multipart uploader](https://github.com/SandQuattro/websocket-miltipart-upload)
-![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/websocket-miltipart-upload)
-![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/websocket-miltipart-upload)
-![Github Open Issues](https://img.shields.io/github/issues/sandquattro/websocket-miltipart-upload)
+### [Websocket multipart uploader](https://github.com/SandQuattro/websocket-multipart-storage)
+![Repository Top Language](https://img.shields.io/github/languages/top/sandquattro/websocket-miltipart-storage)
+![Github Repository Size](https://img.shields.io/github/repo-size/sandquattro/websocket-miltipart-storage)
+![Github Open Issues](https://img.shields.io/github/issues/sandquattro/websocket-miltipart-storage)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/websocket-miltipart-upload)
-![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/websocket-miltipart-upload)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandquattro/websocket-miltipart-storage)
+![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/websocket-miltipart-storage)
 
 <a href="https://github.com/SandQuattro/websocket-miltipart-upload">
 <img src="https://github.com/SandQuattro/websocket-miltipart-upload/assets/31468131/e1f4aea6-b954-4cf6-b2e9-166d93b6a537" width="500px"></a>
