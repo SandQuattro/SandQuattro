@@ -77,7 +77,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/sse-streaming)
 
 <a href="https://github.com/SandQuattro/sse-streaming">
-<img src="https://github.com/SandQuattro/sse-streaming/assets/31468131/efcc4f2f-2c41-462c-8b79-7afdb5ccc840" width="500px"></a>
+<img src="https://github.com/user-attachments/assets/834da5e7-dab8-4b42-87b3-da71301b6184" width="500px"></a>
+
 
 > The Core SSE Demo API (here and after referred to as API) provides a set of methods necessary for multiple file uploading and upload process Server Sent Events (SSE) streaming to frontend application. Can be useful for realtime data visualization, like file upload / processing progress, currency rates, etc.. It's one way, from server to client. If you need two-way communication, use websockets.
 
@@ -92,7 +93,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/golang-blockchain)
 
 <a href="https://github.com/SandQuattro/golang-blockchain">
-<img src="https://github.com/SandQuattro/golang-blockchain/assets/31468131/83182959-5c74-49fa-bdb8-333d0e0a3c6a" width="500px"></a>
+<img src="https://github.com/user-attachments/assets/2ec1f143-7117-4279-b3c2-1dc8779987d1" width="500px"></a>
 
 > simple blockchain implementation. Educational purposes
 
@@ -108,7 +109,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/sandquattro/hashmap-implementation)
 
 <a href="https://github.com/SandQuattro/hashmap-implementation">
-<img src="https://github.com/SandQuattro/hashmap-implementation/assets/31468131/49face93-9832-4245-a5da-ea7f80e8cdfd" width="500px"></a>
+<img src="https://github.com/user-attachments/assets/3678fb55-8814-4a06-b1c2-82e11bc37465" width="500px"></a>
+
 
 > some golang hashmap internals implementation. Educational purposes
 <!--
