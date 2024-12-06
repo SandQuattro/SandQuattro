@@ -24,7 +24,7 @@
 ### [Single Sign-On Echo](https://github.com/SandQuattro/golang-sso-echo)
 
 <a href="https://github.com/SandQuattro/golang-sso">
-<img src="https://github.com/SandQuattro/golang-sso/assets/31468131/4454c9ac-4dcd-405a-a3cf-8e92cb2bd170" width="500px"></a>
+<img src="https://github.com/user-attachments/assets/3e37715b-f57c-4c77-aa7e-56dda579dbba" width="500px"></a>
 
 
 > Argon2 based sso service, written in golang. Provides a set of methods necessary for users registration / authorization  in the company's systems, refreshing the jwt token, as well as user management methods, like change password, email password renewal, also providing oauth authorization through such systems as Google, VK, Mail.ru, using OAuth2.0 protocol specification (rfc6749)
