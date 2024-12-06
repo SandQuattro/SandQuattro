@@ -61,7 +61,8 @@
 ### [Faceted Bitmap Search](https://github.com/SandQuattro/faceted-bitmap-search)
 
 <a href="https://github.com/SandQuattro/faceted-bitmap-search">
-<img src="https://github.com/user-attachments/assets/45193fb6-6b12-4331-879c-a0b98f4620cf" width="500px"></a>
+<img src="https://github.com/user-attachments/assets/15a40f86-e4dc-4288-a22e-3546702548c9" width="500px"></a>
+
 
 > Here comes high performance faceted bitmap huge dataset searching
 
